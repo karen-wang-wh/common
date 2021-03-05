@@ -1,4 +1,9 @@
+.idea/
+
 .gradle
+gradlew
+gradlew.bat
+/gradle/
 /build/
 
 # Ignore Gradle GUI config
